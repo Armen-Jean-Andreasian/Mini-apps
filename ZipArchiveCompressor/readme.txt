@@ -1,0 +1,1 @@
+Gui Program that compresses files and output a zipfile in a desired location.
