@@ -1,19 +1,19 @@
 """
-PasswordGenerator Class
+Password-Generator Class
 
-This module defines a simple PasswordGenerator class that generates random passwords
+This module defines a simple Password-Generator class that generates random passwords
 based on a set of characters including uppercase letters, lowercase letters, digits, and punctuation.
 
 
 Usage:
-1. Create an instance of PasswordGenerator.
+1. Create an instance of Password-Generator.
     2. Optionally, set the desired password length using the set_length() method.
 3. Generate a random password using the generate() method.
 4. Retrieve the generated password using the get_result() method.
     5. Optionally, clear the generated password using the clear_result() method.
 
 Example:
-    generator = PasswordGenerator()
+    generator = Password-Generator()
     generator.set_length(12)
     generator.generate()
     generated_password = generator.get_result()
