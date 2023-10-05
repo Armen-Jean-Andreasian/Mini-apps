@@ -1,3 +1,10 @@
+"""
+Recording turns off X time later.
+Probably caused by insufficient temp file.
+Needs fix
+
+"""
+
 import os
 import cv2
 import numpy as np
