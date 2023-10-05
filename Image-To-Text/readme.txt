@@ -1,0 +1,1 @@
+Text from image invoker powered by tesseract.
