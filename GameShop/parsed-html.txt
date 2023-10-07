@@ -1,0 +1,1198 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Digital goods seller Cyber Store</title>
+    <meta property="og:title" content="Digital goods seller Cyber Store">
+    <meta property="og:site_name" content="Plati.Market. Digital goods marketplace.">
+    <meta name=keywords content="" />    
+	<meta name=description content="Digital goods seller Cyber Store">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="en"/>
+	<meta name="google" content="notranslate" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="1715ea4fd6454354" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+<!-- <link href="/build/bundle.css" media="screen" rel="stylesheet" type="text/css" /> -->
+<link href="/css/fonts.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/nanoscroller.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/main.css?20230929-01" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/dd.css?2021-07-20" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/goods-tables.css?26.11.2018-2" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/jquery.qtip.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/owl.carousel.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/owl.theme.default.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/modalChat.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max1200.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-min769max1024.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max1024.css?20211008-1319" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max768.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max620.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max500.css?20230816-1617" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/desktop-max400.css?25.10.2022-0" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/landscape-max1024.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/device-min768max1366.css?27.12.2019-1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/sizes/device-min1024max1366.css?20220920-1003" media="screen" rel="stylesheet" type="text/css" />    <script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.debounce.js"></script>
+    <script type="text/javascript" src="/js/jquery.countdown.min.js?14052015-2"></script>
+    <script type="text/javascript" src="/js/jquery.countdown-en-US.js?14052015"></script>
+    <script type="text/javascript" src="/js/lang-en-US.js?31.01.2014-1"></script>
+    <script type="text/javascript" src="/js/vk-openapi.js?105"></script>
+    <!--
+    <script async src="//ulogin.ru/js/ulogin.js"></script>        
+    -->
+    <script type="text/javascript" src="/js/base64.js"></script>
+    <script type="text/javascript" src="/js/detectmobilebrowser.js"></script>
+    <script type="text/javascript" src="/js/isMobile.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.truemodal.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/jquery.slider.js"></script>
+    <script type="text/javascript" src="/js/jquery.formatDateTime.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.prettyPhoto.min.js?10092020"></script>
+    <script type="text/javascript" src="/js/jquery.dd.js?31.01.2018-0"></script>
+    <script type="text/javascript" src="/js/imagesloaded.pkg.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+    <script type="text/javascript" src="/js/agent.js?2022-07-13-0"></script>
+    <script type="text/javascript" src="/js/plati.js?2022-11-24"></script>
+    <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.nanoscroller.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.touchSwipe.min.js"></script>
+    <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/js/scripts.js?2020-06-19"></script>    
+    <script type="text/javascript" src="/js/url_helper.js?2022-09-08-2"></script>    
+    <link rel="stylesheet" type="text/css" href="/js/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/js/slick/slick-theme.css"/>
+    <script type="text/javascript" src="/js/slick/slick.min.js"></script> 
+    <script type="text/javascript" src="/js/jquery.signalR-2.0.3.min.js"></script>
+    <script>
+        plang = 'en-US';
+        var cookieDomain = '.plati.market';
+     </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WF69VW4C9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-2WF69VW4C9');
+    </script>
+    
+    <style>
+    .grecaptcha-badge {visibility: hidden;}
+    </style>
+    <script id="popup-container" type="text/template">
+        <div id="popup-container-data login-popup-container" class="popup-content">
+            <div style="text-align:right;" class="true-modal-remove"><a class="true-modal-remove">Close</a></div>
+            <span id="popup-table-title"></span>
+            <div id="popup-table-data" style="display:none"></div>
+            <div id="popup-container-login-form">
+                <div id="check_turing">
+                    <!--
+			        <h3>Sign in via a social network</h3>
+                    <div id="ulogin-placeholder" style="margin-top:4px;"></div>
+                    <br />
+			        <h2>OR</h2>
+                    -->
+			        <h3>Enter your email and press Send button</h3>                    
+			        <p style="color:#555;display:inline-block;margin-top: 11px;">An email will be sent to confirm that the address you entered belongs to you</p>
+                    <ul class="login-form">
+                        <li class="clearfix">
+				            <label for="f_turing_eml">E-mail:</label>
+				            <input tabindex="1" type="email" class="login-form-email" name="email" id="f_turing_eml" value="" required>
+			            </li>			           
+                    </ul>
+                    <div class="login-form-buttons clearfix">
+			            <input tabindex="3" type="button" id="b_step1" style="width:120px;" value="Send">
+                        <input tabindex="4" type="button" style="width:120px;" value="Cancel" class="true-modal-remove">                          
+		            </div>
+
+                    <div class="login-form-messages" id="ajax_messages"></div> <!-- по-умолчанию div в display: none; когда нужно показать - переключить div в display: block; -->
+
+                 </div>
+
+                <span class="login-form-loader" id="loader_img"><i class="platiru-loader"></i></span> <!-- по-умолчанию span в display: none; когда нужно показать - переключить span в display: block; -->
+
+                <div class="login-form-status" id="check_code">
+			        <h3>Enter the confirmation code sent to <span id="email_messages" style="font-weight:bold;"></span> or click on the link in this message</h3>
+                    <br />
+                    <input maxlength="50" size="50" type="text" id="f_confirm_code" name="f_confirm_code">
+			        <div class="login-form-status-buttons clearfix">
+				        <input id="b_step2" type="button" value="Confirm">
+				        <input type="button" class="true-modal-remove" value="Cancel">
+			        </div>
+			        <div class="login-form-messages" id="code_messages"></div> <!-- по-умолчанию div в display: none; когда нужно показать - переключить div в display: block; -->
+		        </div>
+
+            </div>
+        </div>
+    </script>
+
+
+<!-- <link rel="alternate" hreflang="en-us" href="" />
+<link rel="alternate" hreflang="ru" href="" /> -->
+    <script type="text/javascript">
+    function Responses(mode, cat, page, rows) {
+        $("#platiru-loader_r").css("visibility", "visible");
+	    $.get("/asp/block_responses.asp?id_d=0&id_s=1063038&mode=" + mode + "&page=" + page + "&rows=" + rows + "&lang=en-US&rnd=" + Math.random(), function (result) {
+	        if (result.length > 10) {
+	            $("#ResponsesBlock").html(result); $("#RespPager").html('');
+	            $("#platiru-loader_r").css("visibility", "hidden");
+			}
+			
+			UpdateReviewsTableParams({
+				page: page,
+				type: mode
+			});
+	    });
+	    return false;
+	}
+	
+    function Goods(idr, sort, page, rows, curr) {
+        $("#platiru-loader_i").css("visibility", "visible");
+	    $("#SortingBox").val(sort);
+	    $.get("/asp/block_goods_s.asp?id_r=" + idr + "&id_s=1063038&sort=" + sort + "&page=" + page + "&rows=" + rows + "&curr=" + curr + "&lang=en-US&rnd=" + Math.random(), function (result) {
+	        if (result.length > 10) {
+	            $("#GoodsBlock").html(result); $("#GoodsPager").html('');
+	            $("#platiru-loader_i").css("visibility", "hidden");
+			}
+			
+			UpdateSellerTableParams({
+				category: idr,
+				sort: sort,
+				page: page,
+				count: rows
+			});
+	    });
+	    return false;
+	}
+	
+    $(document).ready(function(){
+       
+       var _tlg_link = isMobile.any ? "tg://resolve?domain=cyberstore21" : "https://t.me/cyberstore21";
+	    $("#tlg_link").attr("href", _tlg_link)
+        
+	});
+    </script>
+</head>
+<body class="en">
+<div class="static-page merchant">
+
+<div class="content-loader">
+  <div class="loader">
+    <div class="loader-inner ball-scale">
+      <div></div>
+    </div>
+  </div>
+</div>
+<div class="bodyContainer">
+<div class="main-cont">
+<header>
+  
+  <div class="top-panel">
+		<div class="wrapper">
+			<div class="logo">
+				<a href="https://plati.market/" title="Plati.Market"></a>
+			</div>
+      <div class="langs select_dd">
+        
+            <a class="en_icon active">EN</a>
+            <ul>
+          <li><a class="ru_icon" href="?lang=ru-RU">RU</a></li>
+        </ul>
+            
+      </div>
+
+    
+
+      <div class="header__dop-menu">
+        <div class="header__dop-menu__inner">
+		  <a href="#" class="close_rs"></a>
+          <div class="my-menu__cont">
+            <div class="my-menu">
+              <a class="my_buy" href="https://digiseller.market/info/?lang=en-US" target="_blank">
+                <span>My&nbsp;purchases</span>
+              </a>
+              <div class="my-submenu my-goods-submenu">
+                <ul id="my-goods-submenu-loader">
+                  <li class="my-menu-loader"><i class="platiru-loader"></i></li>
+                </ul>
+                <ul id="my-goods-submenu-items" style="display:none"></ul>
+              </div>
+            </div>
+            <div class="my-menu">
+              <a class="my_note" onclick="ShowModal('favs');">
+                <span>My&nbsp;favorites</span>
+              </a>
+              <div class="my-submenu my-note-submenu">
+                <ul id="my-note-submenu-loader">
+                  <li class="my-menu-loader"><i class="platiru-loader"></i></li>
+                </ul>
+                <ul id="my-note-submenu-items" style="display:none"></ul>
+              </div>
+            </div>
+            <span class="head_top_icons"></span>
+          </div>
+          <div class="top_menu">
+    		<ul>
+    			<li>
+    				<a href="#" class="with_submenu">Buyers<i></i></a>
+    				<div class="top_submenu">
+    					<ul>
+    						<li><a href="/howtopay/">How To Pay</a></li>
+    						<li><a href="/buyerterms/">Terms</a></li>                            
+    					</ul>
+    				</div>
+    			</li>    					
+    			<li>
+    				<a href="#" class="with_submenu">Sellers<i></i></a>
+    				<div class="top_submenu">
+    					<ul>
+    						<li><a href="https://my.digiseller.ru/inside/ad.asp?lang=en-US" target="_blank">Sign in</a></li>
+    		                <li><a href="/sellerinfo/">Info</a></li>
+    		                <li><a href="/selleragreement/" target="_blank">Sign up</a></li>
+    		            </ul>
+    		        </div>
+    		    </li>
+    			<li>
+    				<a href="#" class="with_submenu">Affiliates<i></i></a>
+    		        <div class="top_submenu">
+    		            <ul>
+    				        <li><a href="/partners/?show=info">Info</a></li>
+    		                <li><a href="https://digiseller.com/outside/check.asp?redirecturl=https%3A%2F%2Fplati%2Emarket%2Fpartners%2F%3Fshow%3Dinfo&lang=en-US" target="_blank">Sign up</a></li>
+    		                <li><a href="/api/">API</a></li>
+    		            </ul>
+    				</div>
+    			</li>
+    		</ul>
+    	</div>
+        </div>
+        </div>
+	    </div>
+  </div>
+  
+	<div class="bottom-panel">
+		<div class="wrapper">
+      <a href="#" class="l-sidebar_toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
+      <div class="catalog-dd">
+        <a href="#" class="catalog-menu" id="catalog-arrow"> <!-- или .arrow_bottom -->
+          <span>Category</span><i></i>
+          <span class="no-border"></span>
+					<span class="burger">
+						<span></span>
+		        <span></span>
+		        <span></span>
+					</span>
+        </a>
+        <div class="catalog_dropdown" id="catalog-dropdown">
+          <ul>
+            <li><a href="/catf/keysandpins/12549">Activation keys</a>
+              <ul><div class="dropdown_subcat_arrow"></div><li><a  href="/cat/ip-telephony/13">IP Telephony</a></li><li><a style="font-weight:bold" href="/games/">Games</a></li><li><a  href="/cat/internet-providers/11">Internet Providers</a></li><li><a  href="/cat/cards/82795">Cards</a></li><li><a  href="/cat/mobile-telephony/12">Mobile Telephony</a></li><li><a  href="/cat/payment-systems/11674">Payment systems</a></li><li><a  href="/cat/satellite-tv/9168">Satellite TV</a></li></ul>
+            </li>
+            <li><a href="/catf/sowtware/21059">Software</a>
+              <ul><div class="dropdown_subcat_arrow"></div><li><a  href="/cat/pc/121">PC</a></li><li><a  href="/cat/security/70">Security</a></li><li><a  href="/cat/office-software/92">Office software</a></li><li><a  href="/cat/games/51">Games</a></li><li><a  href="/cat/internet/7">Internet</a></li><li><a  href="/cat/cell-phones/376">Cell Phones</a></li><li><a  href="/cat/multimedia-graphics/42">Multimedia & Graphics</a></li><li><a  href="/cat/education-science-engineering/111">Education, Science & Engineering</a></li><li><a  href="/cat/programming/60">Programming</a></li><li><a  href="/cat/seo/11326">SEO</a></li><li><a  href="/cat/desktop/105">Desktop</a></li><li><a  href="/cat/editors/77">Editors</a></li><li><a  href="/cat/software-for-pocket-pc/125">Software for Pocket PC</a></li><li><a  href="/cat/utilities/82">Utilities</a></li></ul>
+            </li>
+            <li><a href="/catf/digital+goods/19830">Digital Products</a>
+              <ul><div class="dropdown_subcat_arrow"></div><li><a  href="/cat/itunes-app-store/19830">iTunes & App Store</a></li><li><a  href="/cat/audiobooks/22819">Audiobooks</a></li><li><a  href="/cat/databases/378">Databases</a></li><li><a  href="/cat/banner-networks/139">Banner networks</a></li><li><a  href="/cat/courses-lessons/20363">Courses, Lessons</a></li><li><a  href="/cat/design/18409">Design</a></li><li><a  href="/cat/access-to-resources/198">Access to Resources</a></li><li><a  href="/cat/game-accounts/21940">Game Accounts</a></li><li><a  href="/cat/arts/20446">Arts</a></li><li><a  href="/cat/mobile-phones/3526">Mobile Phones</a></li><li><a  href="/cat/gift-cards/21895">Gift Cards</a></li><li><a  href="/cat/invites/21708">Invites</a></li><li><a  href="/cat/sports-predictions/21655">Sports Predictions</a></li><li><a  href="/cat/miscellaneous/5">Miscellaneous</a></li><li><a  href="/cat/active-advertising-systems/431">Active Advertising Systems</a></li><li><a  href="/cat/social-networks/24274">Social Networks</a></li><li><a  href="/cat/photos/7715">Photos</a></li><li><a  href="/cat/hosting/158">Hosting</a></li><li><a  href="/cat/templates/3572">Templates</a></li></ul>
+            </li>
+            <li><a href="/cat/Ebooks/306">EBooks</a>
+              <ul><div class="dropdown_subcat_arrow"></div><li><a  href="/cat/security/163">Security</a></li><li><a  href="/cat/business-economics/17">Business & Economics</a></li><li><a  href="/cat/for-children/26">For Children</a></li><li><a  href="/cat/house-family-entertainment/27">House, Family & Entertainment</a></li><li><a  href="/cat/newspapers-magazines/19">Newspapers & Magazines</a></li><li><a  href="/cat/arts-culture/25">Arts & Culture</a></li><li><a  href="/cat/computers/21">Computers</a></li><li><a  href="/cat/books-in-foreign-languages/22">Books in Foreign Languages</a></li><li><a  href="/cat/medicine/30">Medicine</a></li><li><a  href="/cat/education-science/31">Education & Science</a></li><li><a  href="/cat/website-promotion/11327">Website Promotion</a></li><li><a  href="/cat/dictionaries-encyclopedias/28">Dictionaries & Encyclopedias</a></li><li><a  href="/cat/sport-tourism/406">Sport, Tourism</a></li><li><a  href="/cat/engineering/29">Engineering</a></li><li><a  href="/cat/fiction/20">Fiction</a></li><li><a  href="/cat/esoteric/32">Esoteric</a></li><li><a  href="/cat/law/24">Law</a></li></ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+			<div class="logoSmall">
+				<a href="https://plati.market/" title="Plati"></a>
+			</div>
+
+			<div class="searchCont"></div>
+			<div class="top_search_hldr">
+					<input id="searchstr" value="" type="text" x-webkit-speech="x-webkit-speech" spellcheck="false" name="top_search" placeholder="Start typing..."  /><a class="search_go" onclick="dosearch();"></a>
+			</div>
+
+      <span class="searchBtn"></span>
+      <a href="#" class="r-sidebar_toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
+
+      <div class="top_user_controls">
+        <div title="My Chat" class="chat_icon" style="cursor:pointer;" onclick="return PopUp(0, 1, 'en-US');"></div>
+        <div class="my-menu my-menu-cart">
+          <span id="cart_span" onclick="ShowModal('cart');">
+            <a class="cart_icon"></a>
+            <span id="cart_count_label" class="cart_icon_counter empty">
+              <span id="cart_count_item"></span>
+            </span>
+          </span>
+          <div class="my-submenu my-cart-submenu">
+            <ul id="my-cart-submenu-loader">
+              <li class="my-menu-loader"><i class="platiru-loader"></i></li>
+            </ul>
+            <ul id="my-cart-submenu-items" style="display:none"></ul>
+          </div>
+        </div>
+      </div>
+		</div>
+	</div>
+</header>
+
+
+
+
+<script>
+    var lang = 'en-US';
+    $('#searchstr').on("keypress", function (e) {
+        if ($('#searchstr').val().length>0 && e.keyCode == 13) {
+            dosearch();
+            return false;
+        }
+    });
+</script>
+
+<div class="wrapper">
+<div class="content">
+	<div class="content_full platiru-texts">
+
+    
+
+	<div class="content_center">
+
+        <h1>Seller <span>Cyber Store</span></h1>
+
+
+
+        <div class="merchant-information-wrapper clearfix">
+			<div class="merchant-statistic">
+				<ul class="clearfix">
+                    
+                    <a href="https://passport.wmtransfer.com/asp/CertView.asp?wmid=925014694203" target="_blank"><li data-tooltip="m=att&id=1063038"><img src="/img/passport_ico_32.png" width="37" height="32"></li></a>
+                    
+				</ul>
+				<h2>Statistics</h2>
+				<ol>
+					<li>Sold : 264</li>
+					<li>Refunds : 3</li>
+
+                     <li>Last sale : 11 days ago</li>
+
+				</ol>
+			</div>
+			<div class="merchant-information clearfix">
+				<div class="merchant-raiting">
+                    
+					<img src="/img/icon-merchant-0.png" width="32" height="32">
+					<ul>
+						<li>Rating: <b>-0,11</b>
+                            <i data-tooltip="m=about_rating">?</i>
+						</li>
+						<li>BL: <!--<b><img src="//stats.wmtransfer.com/Levels/pWMIDLevel.aspx?wmid=925014694203&h=16&bg=0XFFFFFF" alt="bl" width="32" height="16"></b>-->
+                            <img src="//bl.wmtransfer.com/img/bl/925014694203?h=16&bg=0XFFFFFF" alt="bl" width="32" height="16">
+                            <i data-tooltip="m=about_bl">?</i>
+						</li>
+					</ul>
+				</div>
+				<div class="merchant-contacts">
+					<table>
+					    <tr><th>Registered:</th><td>23.03.2022</td></tr>
+                        
+                        <tr><th>Phone number:</th><td>+84567174465</td></tr>
+                        
+					        <tr><th>E-mail:</th><td>
+				                                        <a href="mailto:cyber.store.commerce@gmail.com">cyber.store.commerce@gmail.com</a>
+			                                        </td></tr>
+                        
+					    <tr><th><img src="/images/whatsapp_128.png" style="width:16px;height:16px;"></th><td><a rel="noindex,nofollow" href="whatsapp://send?text=&phone=+84567174465">+84567174465</a></td></tr>
+                        
+					    <tr><th><img src="/images/telegram_128.png" style="width:16px;height:16px;"></th><td><a rel="noindex,nofollow" id="tlg_link" href="tg://resolve?domain=cyberstore21">cyberstore21</a></td></tr>
+                        
+					    <tr><th><img src="/images/discorduser.png" style="width:16px;height:16px;"></th><td>cyber_store#8175</td></tr>
+                        
+                        <!--
+                        
+                        -->
+
+                        
+
+
+					    <tr><th>WM id</th><td>
+				                                                        <a target=_blank href="http://events.webmoney.ru/user.aspx?925014694203">925014694203</a>
+				                                                        </td></tr>
+				    </table>
+				</div>
+			</div>
+		</div>
+
+
+	    
+			<div class="ask_merchant">
+				<div class="goods_ask_merchant offline">
+					<span><i></i>offline</span><a href="#" onclick="return PopUp(1063038, 0);">Ask a question</a>
+				</div>
+			</div>
+		
+
+		<div class="merchant_products">
+			<h1>Items</h1>
+			<span>73<i class="platiru-loader" id="platiru-loader_i" style="visibility: hidden;"></i></span>
+			
+			<div class="merchant_products_tbl_options">
+                <div class="sort_by">
+                    <span>Show</span>
+			        <select id="cat_select" class="select_dd" onChange="Goods(this.value, $('#ord_select').val(), 1, 10, 'USD');">
+                        <option value="0">All categories</option>
+                        <optgroup style="font-style:normal;font-weight:normal;" label="items from category:">
+				            <option value="20363" >Digital Goods >> Courses, Lessons (1)</option><option value="26472" >Game Accounts >> Epic Games Accounts (1)</option><option value="22765" >Game Accounts >> Uplay Accounts (1)</option><option value="22295" >Games >> BioShock (1)</option><option value="22128" >Games >> Borderlands (1)</option><option value="21605" >Games >> Mafia (1)</option><option value="20887" >Games >> Miscellaneous (62)</option><option value="22102" >Games >> Sid Meier's Civilization (1)</option><option value="22522" >Games >> Steam Trading Cards (1)</option><option value="22812" >Games >> XCOM (1)</option><option value="20139" >Gift Cards >> Others (2)</option>
+			            </optgroup>
+                    </select>
+                </div>
+			    <div class="sort_by">
+			    <select id="ord_select" class="select_dd" onChange="Goods($('#cat_select').val(), this.value, 1, 10, 'USD');">
+                    <option>sort by</option>
+                    <option value="name">△name</option>
+                    <option value="nameDESC">▽name</option>
+                    <option value="cntSellDESC">▽sold</option>
+                    <option value="cntSell">△sold</option>
+                    <option value="price">△price</option>
+                    <option value="priceDESC">▽price</option>
+                    </select>
+			    </div>
+			</div>
+			<span id="GoodsBlock"> <table class="goods-table goods-table-merchant"><thead><tr><th colspan="2" class="product-title">Item name</th><th class="product-sold">Sold</th><th class="product-price"><select class="select_dd" onChange="return Goods(0,'name', 1, 10, this.value);"><option value="USD" selected>USD</option><option value="RUR" >RUB</option><option value="EUR" >EUR</option><option value="UAH" >UAH</option></select></td></th></tr></thead><tbody><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3324377,0)"><i id="n3324377" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/assassin-s-creed-chronicles-trilogy-uplay-global/3324377">✅  Assassin's Creed Chronicles Trilogy - UPLAY - GLOBAL</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>1 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3321953,0)"><i id="n3321953" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/baby-dino-adventures-steam-key-global-g-ft/3321953">✅  BABY DINO ADVENTURES - Steam key - GLOBAL + 🎁 Gìft</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>6<span>.49 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3317155,0)"><i id="n3317155" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/blightbound-steam-key-region-free-row-2-gift/3317155">✅  Blightbound ⭐️ STEAM KEY ⭐️ REGION FREE ROW🌍 2 GIFT</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>11<span>.99 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3324223,0)"><i id="n3324223" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/-circles-steam-key-region-free-row--gift/3324223">✅ 🔴 CIRCLES - Steam key - REGION FREE / ROW +🎁 GIFT</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>3<span>.23 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3321961,0)"><i id="n3321961" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/earthx-steam-key-global-g-ft/3321961">✅  EarthX - Steam key - GLOBAL + 🎁 Gìft</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>6<span>.10 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3324317,0)"><i id="n3324317" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/-neverwinter-fairy-whisperer-pack-key-row/3324317">⭐️ ✅ Neverwinter : Fairy Whisperer Pack 🌍 Key ROW</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>0<span>.99 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3320282,0)"><i id="n3320282" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/at-eve-s-wake-steam-key-global--gifts/3320282">✅ At Eve's Wake - 🔥 Steam key - GLOBAL  + 🎁 GIFTS</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>11<span>.12 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3603808,0)"><i id="n3603808" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/bioshock-the-collection-steam-key-global-row/3603808">✅ BIOSHOCK: THE COLLECTION ⭐️ STEAM KEY 🌍 GLOBAL ROW</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>49<span>.99 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3335918,0)"><i id="n3335918" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/book-of-demons-steam-key-region-free-row/3335918">✅ BOOK OF DEMONS ⭐️ STEAM KEY REGION FREE / ROW</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>1<span>.18 </span>$ </div></td></tr><tr><td class="product-checkbox"><div><a class="product-to-notepad" onclick="return noteItem(3321243,0)"><i id="n3321243" class="unchecked" title="Add to favorites"></i></a></div></td><td class="product-title"><div><a href="/itm/cannibal-cuisine-steam-key-global--gifts/3321243">✅ CANNIBAL CUISINE - Steam key - GLOBAL  + 🎁 GIFTS</a><div></td><td class="product-sold"><div></div></td><td class="product-price"><div class="product-price-inner"><div>7<span>.39 </span>$ </div></td></tr></tbody></table><div class="sort_wrapper"><div class="pages_nav"><a class="active" onclick="return Goods(0,'name', 1, 10, 'USD');" href="javascript:void();">1</a><a onclick="return Goods(0,'name', 2, 10, 'USD');" href="#">2</a><a onclick="return Goods(0,'name', 3, 10, 'USD');" href="#">3</a><a onclick="return Goods(0,'name', 4, 10, 'USD');" href="#">4</a><a onclick="return Goods(0,'name', 5, 10, 'USD');" href="#">5</a><span>...</span><a onclick="return Goods(0,'name', 8, 10, 'USD');" href="#">8</a></div><div class="sort_by"><span>page size</span><select class="curr_select" onChange="return Goods(0, 'name', 1, this.value, 'USD');"><option value=10 selected>10</option><option value=20>20</option><option value=50>50</option><option value=100>100</option></select></div></div></span>
+		</div>
+
+		<div class="goods_reviews">
+        <span name="responses"></span>
+				<h1>Feedback</h1><span>3&nbsp;&nbsp;<span style="color:red">1</span></span><i class="platiru-loader" id="platiru-loader_r" style="visibility: hidden;"></i>
+
+            <span id="ResponsesBlock"><div class="goods_reviews_tabs"><a href="javascript:void();" onclick="return Responses(0, '', 1, 5)" class="selected">all</a><a href="javascript:void();" onclick="return Responses(1, '', 1, 5);">positive</a><a href="javascript:void();" onclick="return Responses(2, '', 1, 5);">negative</a></div><div class="goods_reviews_content"><div data-idr="11735593"><span class="review-goods"><a href="/itm/random-udemy-course/3792569">✅ RANDOM UDEMY COURSE ⭐️</a></span><span class="review_text">It worked, thanks!</span><span class="review_info"><i class="good_review"></i>2023-08-9</span></div><div data-idr="10514667"><span class="review-goods"><a href="/itm/railway-empire-steam-key-region-free-row-gift/3335862">✅ RAILWAY EMPIRE ⭐️ STEAM KEY REGION FREE / ROW +🎁GIFT</a></span><span class="review_text">Спасибо большое продавцу! Ключ пришел, все честно! Удачных продаж!</span><span class="review_info"><i class="good_review"></i>2023-01-14</span></div><div data-idr="10294240"><span class="review-goods"><a href="/itm/love-2-kuso-steam-key-region-free-row-gift/3335987">✅ LOVE 2: kuso ⭐️ STEAM KEY REGION FREE / ROW +🎁GIFT</a></span><span class="review_text">nice</span><span class="review_info"><i class="good_review"></i>2022-12-10</span></div><div class="pages_nav"><a class="active" onclick="return Responses(0, '', 1, 5);" href="javascript:void();">1</a></div></div></span>
+
+				<div class="goods_reviews_stats">
+					<table class="reviews_counter">
+						<tr>
+							<td></td>
+							<td colspan="3">Period</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td>1 month</td>
+							<td>3 months</td>
+							<td>12 months</td>
+						</tr>
+						<tr>
+							<td><i></i></td>
+							<td>0</td>
+							<td>1</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td><i></i></td>
+							<td>0</td>
+							<td>0</td>
+							<td>1</td>
+						</tr>
+
+						<tr><td colspan="4"></td></tr>
+						<tr>
+							<td colspan="3"><a target="_blank" href="http://arbitrage.wmtransfer.com/asp/claims.asp?wmid=925014694203">Claims in WebMoney</a></td>
+							<td><img style="margin-top:5px;" width="50" height="16" border=0 src="//passport.webmoney.ru/aspx/AL.aspx?wmid=925014694203&bg=white"></td>
+						</tr>
+					</table>
+
+				</div>
+
+		</div>	<!-- end reviews -->
+
+
+
+	</div><!-- end content center -->
+
+
+
+	<div class="right_side">
+        <!--
+        <div class="goods_social">
+            <a href="#" class="vk"></a>
+            <a href="#" class="odkl"></a>
+            <a href="#" class="fb"></a>
+            <a href="#" class="tw"></a>
+            <a href="#" class="google"></a>
+            <a href="#" class="mail"></a>
+            <a href="#" class="jj"></a>
+            <a href="#" class="mail2"></a>
+        </div>
+        -->
+		<div class="warning">
+			<div>
+			This <a class=link_small href="Http://www.wmtransfer.com" target=_blank>WebMoney</a> user is registered as a seller on Plati<br />We recommend that you pay attention to the total number of sales, customer reviews and the content of these reviews.<br /><br />
+			<b>Plati bears no responsibility for the quality of goods offered by this seller, or for the seller's rights to said goods. We are responsible only for their immediate delivery upon payment. Sellers and Buyers on Plati establish a relationship independently (at their own risk).</b>
+			</div>
+			<div>
+			In order to counter copyright infringement and property rights, we ask you to immediately inform us at <a target=_blank href=mailto:support@plati.market>support@plati.market</a> the fact of such violations and to provide us with reliable information confirming your copyrights or rights of ownership. Email must contain your contact information (name, phone number, etc.)<br><br>
+            
+			</div>
+		</div>
+
+
+
+
+	</div> <!-- end right side-->
+
+        
+	
+	<script>
+	
+	function UpdateSellerTableParams(seller) {
+		if(seller.page == 1) {
+			DeleteUrlHashParam("sp");
+		} else {
+			ChangeUrlHashParam("sp", seller.page);
+		}
+
+		if(seller.category == 0) {
+			DeleteUrlHashParam("sc");
+		} else {
+			ChangeUrlHashParam("sc", seller.category);
+		}
+
+		if(seller.count == 10) {
+			DeleteUrlHashParam("sr");
+		} else {
+			ChangeUrlHashParam("sr", seller.count);
+		}
+		
+        ChangeUrlHashParam("ss", seller.sort);		
+
+	}
+
+	function UpdateReviewsTableParams(reviews) {		
+
+		if(reviews.page == 1) {
+			DeleteUrlHashParam("rp");
+		} else {
+			ChangeUrlHashParam("rp", reviews.page);
+		}
+
+		if(reviews.type == 0) {
+			DeleteUrlHashParam("rt");
+		} else {
+			ChangeUrlHashParam("rt", reviews.type);
+		}
+		
+	}
+
+	function GetSellerTableParams() {
+		var seller = {
+			page: GetUrlHashParam("sp"),
+			count: GetUrlHashParam("sr"),
+			sort: GetUrlHashParam("ss"),
+			category: GetUrlHashParam("sc"),
+			default: true,
+		};
+		if(seller.page == null || seller.page == 1) { 
+			seller.page = 1;
+		} else {
+			seller.default = false;
+		}
+
+		if(seller.count == null || seller.count == 10) {
+			seller.count = 10;
+		} else {
+			seller.default = false;
+		}
+
+		if(seller.sort == null || seller.sort == 'default') {
+			seller.sort = 'default';
+		} else {
+			seller.default = false;
+		}
+
+		if(seller.category == null || seller.category == 0) {
+			seller.category = 0;
+		} else {
+			seller.default = false;
+		}
+
+		return seller;
+	}
+
+	function GetReviewsTableParams() {
+		var reviews = {
+			type: GetUrlHashParam("rt"),
+			page: GetUrlHashParam("rp"),
+			default: true,
+		};
+
+		if(reviews.type == null || reviews.type == 0) {
+			reviews.type = 0;
+		} else {
+			reviews.default = false;
+		}
+
+		if(reviews.page == null || reviews.page == 1) {
+			reviews.page = 1;
+		} else {
+			reviews.default = false;
+		}
+
+		return reviews;
+	}
+
+	var allSortValues = $.map($('#ord_select option'), function(e) { return e.value; });
+
+	function ApplyHashParams() {
+		var seller = GetSellerTableParams();
+		if(!seller.default) {
+			Goods(seller.category, seller.sort, seller.page, seller.count, $(".product-price .select_dd").val());
+
+			if(seller.sort != allSortValues[0])
+				$("#ord_select").val(seller.sort);
+		}
+
+		var reviews = GetReviewsTableParams();
+		if(!reviews.default) {
+			Responses(reviews.type, '', reviews.page, 5);
+		}
+	}
+	
+	ApplyHashParams();
+	
+
+	</script>
+
+</div>	<!-- end content full -->
+
+</div> <!-- end content -->
+
+</div> <!-- end wrapper -->
+</div>
+
+</div> <!-- end content -->
+
+</div>
+
+
+
+<div class="footer">
+    <div class="footer_wrap">
+	<div class="copyright">
+        <noindex>
+        <!--  <span>© 1995–2023 Forwint Solutions Ltd.</span><br/> -->
+        <!-- <span>© 1995–2023 Netec Financial Ltd., 103 Sham Peng Tong Plaza, Victoria, Mahe, Seychelles</span><br/>  -->
+        <span>We're on Telegram: <a style="color:#168ad6" href="https://t.me/platiru" target=_blank>https://t.me/platiru</a></span><br />
+        <span>© 2023 Fincom Teh Ltd.</span><br /><br /><br />
+        <!--
+        <table>
+            <tr>                
+                                
+                <td>                   
+                    <div class="socials" style="margin-left:0px">
+                        <table style="padding:0">
+                            
+			                <tr>
+				                <td class="social-tw">
+                                    
+                                        <noindex>
+                                    
+
+                                    <a href="//twitter.com/platicom" class="twitter-follow-button" data-width="60px" data-show-count="false" data-lang="en" data-show-screen-name="false"></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                                
+                                    
+                                        </noindex>
+                                    
+                                </td>
+				                <td class="social-fb">
+                                    
+                                        <noindex>
+                                    
+
+                                    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPlatiRu-momentalnye-pokupki%2F113423815390678%3Fv%3Dpage_getting_started&layout=button_count&show_faces=false&width=134&action=like&font=verdana&colorscheme=light&height=21&locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:134px; height:21px;" allowTransparency="true"></iframe>
+                                    
+                                    
+                                        </noindex>
+                                        
+                                </td>
+                             </tr>
+                             
+		                </table>
+	                </div>
+                    
+                </td>
+            </tr>
+        </table>
+        -->
+        <!-- Google Analytics -->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-744872-1', 'auto');
+        
+        ga('send', 'pageview');
+        </script>
+	    <!-- Google Analytics -->
+        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K3Q8LR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3Q8LR');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(32272129, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32272129" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --> 
+       
+        <!-- WM.Counter -->
+        <!--
+        <script>
+          var _cwb = _cwb || [];
+            (function (d, w, s) {
+                '_cwb.push(['c5eb19ced7724c59ab7758adafb22249', d, w, s]);
+                'var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                's.src = 'https://counter.webmoney.ru/h.js';
+                'var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(s, b);
+            })(document, window, screen);
+        </script>
+        -->         
+    </div>
+	<div class="footer_menu" style="margin-top:-10px;">
+		<ul>
+            <li>
+                
+                    <noindex>
+                
+
+                <a href="https://digiseller.market/info/?lang=en-US" target="_blank">My Purchases</a>
+
+                
+                    </noindex>
+                
+            </li>
+            <li>
+                
+                    <noindex>
+                
+
+                <a onclick="ShowModal('favs');">My Favorites</a>
+
+                
+                    </noindex>
+                
+            </li>
+            <li>
+                
+                    <noindex>
+                
+
+                <a onclick="return PopUp(0, 1, 'en-US');">My Chat</a>
+
+                
+                    </noindex>
+                
+            </li>         
+            <li>
+                
+                    <noindex>
+                
+
+                <a href="/API/">API</a>
+
+                
+                    </noindex>
+                
+            </li>           
+		</ul>
+		<!--<ul>
+			<li><a>Подарочные карты</a></li>
+			<li><a>Обмен WebMoney</a></li>
+		</ul>-->
+		<ul>
+			
+			<li>
+                
+                    <noindex>
+                
+
+                <a href="mailto:support@plati.market">Support</a>
+
+                
+                    </noindex>
+                
+            </li>
+            <li>
+                
+                    <noindex>
+                
+
+                <a href="/refundpolicy">Refund&nbsp;Policy</a>
+
+                
+                    </noindex>
+                
+                    <noindex>
+                
+
+                <a href="/selleragreement?nb=true">Service Agreement</a>
+
+                
+                    </noindex>
+                
+                    <noindex>
+                
+
+                <a href="/privacypolicy">Privacy Policy</a>
+
+                
+                    </noindex>
+                
+                
+                
+            </li>            
+		</ul>        
+	</div>	
+    </div>
+</div>
+<a id="go-top" class="b-back-2-top"></a>
+
+<div class="overlayBlack"></div>
+
+<style>
+.gdpr {
+	display: flex;
+	position: fixed !important;
+	bottom: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	padding: 20px !important;
+	background-color: #ffffff !important;
+	box-shadow: 0 2px 50px rgba(0, 0, 0, 0.3) !important;
+	font-size: 14px !important;
+	font-family: "Roboto", sans-serif !important;
+	line-height: 1.5 !important;
+	border-top: 3px solid #1e5ba7 !important;
+	max-height: 350px !important;
+	z-index: 9999 !important;
+}
+
+.gdpr .gdpr_text {
+	flex-basis: 0 !important;
+	flex-grow: 1 !important;
+	max-width: 100% !important;
+	margin-right: 20px !important;
+	text-align: justify !important;
+}
+
+.gdpr .gdpr_text h4 {
+	margin: 0 0 0.5em 0 !important;
+	font-weight: bold !important;
+	font-size: 20px !important;
+}
+
+.gdpr .gdpr_text p {
+	margin-top: 10px !important;
+	color: #555 !important;
+}
+
+.gdpr .gdpr_buttons {
+	flex: 0 0 auto !important;
+	width: auto !important;
+	max-width: none !important;
+	display: flex;
+	align-items: center !important;
+}
+
+.gdpr .gdpr_buttons .gdpr_button, .gdpr_button {
+	border: 1px solid #1e5ba7 !important;
+	border-radius: 3px !important;
+	background-color: #1e5ba7 !important;
+	box-sizing: border-box !important;
+	width: 200px !important;
+	color: #fff !important;
+	font-size: 14px !important;
+	text-align: center !important;
+	background-image: none !important;
+	height: 40px !important;
+	appearance: none !important;
+	cursor: pointer !important;
+}
+
+@media screen and (max-width: 768px) {
+	.gdpr {
+		flex-direction: column !important;
+		overflow: scroll !important;
+	}
+
+	.gdpr .gdpr_buttons {
+		display: flex;
+		flex-direction: row !important;
+		justify-content: center !important;
+	}
+}
+
+.cookie_policy_text h3 {
+	margin-top: 15px !important;
+}
+
+.cookie_policy_text h4 {
+	margin-top: 15px !important;
+	font-size: 14px !important;
+}
+
+
+/* custom modal */
+.modal-custom {
+	display: flex;
+	justify-content: center !important;
+	align-items: center !important;
+	max-width: 100% !important;
+	position: fixed !important;
+	top: 0 !important;
+	bottom: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	z-index: 10003 !important;
+}
+
+.modal-overlay {
+	position: fixed !important;
+	top: 0 !important;
+	bottom: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	height: 100% !important;
+	background-color: rgba(255,255,255,.8) !important;
+	z-index: 10000 !important;
+}
+
+.modal-box {
+	padding: 40px 60px !important;
+	border-radius: 4px !important;
+	border: 1px solid #ededed !important;
+	background-color: #fff !important;
+	position: relative !important;
+	margin: 5px !important;
+	z-index: 10001 !important;
+	width: 700px !important;
+	max-height: 100% !important;
+	overflow: auto !important;
+	color: #555 !important;
+	font-family: Roboto !important;
+}
+
+.modal-text {
+	line-height: 110% !important;
+	font-family: Roboto,sans-serif !important;
+}
+
+.modal-box h2 {
+	font-weight: 500 !important;
+	font-size: 20px !important;
+	color: #000 !important;
+	font-family: Roboto, sans-serif !important;
+	margin: 0 !important;
+	line-height: 1 !important;
+}
+
+.modal-box p {
+	font-size: 14px !important;
+	margin-top: 10px !important;
+	margin-bottom: 0 !important;
+	font-family: Roboto, sans-serif !important;
+}
+
+.modal-box h3 {
+	margin-top: 15px !important;
+	color: #000 !important;
+	font-size: 16px !important;
+	font-style: italic !important;
+	font-family: Roboto, sans-serif !important;
+	margin-bottom: 0 !important;
+	line-height: 1 !important;
+}
+
+.modal-box h4 {
+	margin-top: 15px !important;
+	color: #000 !important;
+	font-size: 14px !important;
+	font-family: Roboto, sans-serif !important;
+}
+
+.modal-close {
+	text-align: center !important;
+	margin-top: 15px !important;
+}
+
+.modal-close button{
+	border-radius: 3px !important;
+	background-color: #1e5ba7 !important;
+	border: 0 !important;
+	color: #fff !important;
+	font-size: 14px !important;
+	cursor: pointer !important;
+	padding: 11px 73px !important;
+}
+
+.close-modal {
+	position: absolute !important;
+	top: 0 !important;
+	right: 15px !important;
+}
+
+.close-modal span {
+	font-size: 40px !important;
+	color: #1e5ba7 !important;
+	cursor: pointer !important;
+}
+
+@media (max-width: 768px) {
+	.modal-box {
+		padding: 20px 10px !important;
+	}
+}
+
+</style>
+
+
+
+<div class="gdpr">
+	<div class="gdpr_text">
+		<p>This website uses cookies to provide a more effective user experience. See our <a href="javascript:void(0);" onclick="showCookiePolicyPopup()">Cookie policy</a> for details.</p>
+	</div>
+	<div class="gdpr_buttons">
+		<button id="gdpr_accept_button" class="gdpr_button">OK</button>
+	</div>
+</div>
+<div class="modal-custom" style="display: none;">
+	<div class="modal-overlay"></div>
+	<div class="modal-box">
+		<span class="close-modal">
+			<span>×</span>
+		</span>
+		<div class="modal-text">
+			<h2>Cookie policy</h2>
+		
+			<p>Please read this cookie policy carefully before using plati.market operated by us. By visiting plati.market you agree that plati.market may use cookies to be processed by Google Analytics and Yandex.Metrika.</p>
+			
+			<h3>What are cookies?</h3>
+			<p>Cookies are simple text files that are stored on your computer or mobile device by a website’s server. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier, website’s domain name, and some digits and numbers.</p>
+
+			<h3>What types of cookies do we use?</h3>
+			<h4>Necessary cookies</h4>
+			<p>Necessary cookies allow us to offer you the best possible experience when accessing and navigating through our website and using its features. For example, these cookies let us recognize that you have created an account and have logged into that account.</p>
+
+			<h4>Functionality cookies</h4>
+			<p>Functionality cookies let us operate the site in accordance with the choices you make. For example, we will recognize your username and remember how you customized the site during future visits.</p>
+
+			<h3>How to delete cookies?</h3>
+			<p>If you want to restrict or block the cookies that are set by our website, you can do so through your browser setting. Alternatively, you can visit <a href="https://www.internetcookies.org">www.internetcookies.org</a>, which contains comprehensive information on how to do this on a wide variety of browsers and devices. You will find general information about cookies and details on how to delete cookies from your device.</p>
+		</div>
+		<div class="modal-close">
+			<button>Close</button>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+	function setCookieGdpr(cname, cvalue, exdays) {
+		var expires = "";
+		if (exdays != undefined) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			expires = "expires=" + d.toUTCString();
+		} else {
+			expires = "expires = Fri, 31 Dec 9999 23:59:59 GMT";
+		}
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";domain=plati.market;path=/";
+	}
+
+	function initGdprPopupListener() {
+		var gdprPopupLink = document.getElementById('gdpr_accept_button');
+		gdprPopupLink.addEventListener('click', function (e) {
+			e.preventDefault();
+			setCookieGdpr('gdpr_accepted', 'yes', 365);
+
+			document.querySelector('.gdpr').remove();
+		});
+	}
+
+	function closeModal() {
+		document.querySelector('.modal-custom').style.display = 'none';
+	}
+
+	function showCookiePolicyPopup() {
+		document.querySelector('.modal-custom').style.display = 'flex';
+	}
+
+	window.addEventListener('DOMContentLoaded', initGdprPopupListener, false);
+
+	window.addEventListener('click', function(ev) {
+		if(ev.target.closest(".close-modal") == null 
+			&& ev.target.closest(".modal-close") == null) {
+
+			return;
+		}
+
+		ev.preventDefault();
+		closeModal();
+		return;
+	}, false);
+</script>
+
+
+</div>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LcJOkEcAAAAABZkLrjV186O6W8bn9qBhwTOiSmb&hl=en" async defer></script>
+
+<!--
+<script src="https://plati.market/js/recaptcha/api_en.js?hl=en&render=explicit&onload=onloadRecaptchaCallback&ver=12" async defer></script>
+-->
+
+
+</body>
+</html>
+

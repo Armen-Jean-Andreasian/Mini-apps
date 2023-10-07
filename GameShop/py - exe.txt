@@ -1,0 +1,5 @@
+> pip install pyinstaller
+
+> pyinstaller --onefile --icon=path_to_your_icon.ico your_script.py  <--- example
+	
+	> pyinstaller --onefile --icon=icon.ico main.py  <--- this script
